@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marc
-- 👀 I’m infrastructure guy
+- 👀 I’m an infrastructure guy
 - 🌱 I’m currently doing things around platform engineering and developer platforms
 - 📫 Reach me via email on mail@mschnitzius.com
 
